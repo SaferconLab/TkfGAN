@@ -1,4 +1,4 @@
-# TkfGan
+# TkfGAN
 
 This study proposes an innovative time series anomaly detection framework named TkfGAN, whose core technology lies in the systematic integration of the Kalman filter  with the TadGAN model. By incorporating the dynamic system modeling capability of Kalman filtering, we effectively address stability issues in temporal feature extraction inherent to conventional generative adversarial networks, thereby establishing a dual-channel detection architecture with adaptive noise suppression capabilities.
 
